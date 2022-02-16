@@ -3,6 +3,12 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
+.expo/
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
 
 # Other files and folders
 .settings/
